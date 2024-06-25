@@ -1,0 +1,24 @@
+.image-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Four columns in each row */
+    gap: 20px; /* Adjust the gap between items */
+  }
+  
+  .image-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-img-top {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .card-body {
+    padding: 10px;
+    text-align: center;
+  }
+  
