@@ -1,0 +1,88 @@
+.plans-container {
+    padding: 20px;
+    background-color: #eff2f5;
+  }
+  
+  .plan-card {
+    margin-bottom: 20px;
+    margin: 20px auto;
+    background-color: #edf0f1;
+    border-radius: 15px;
+    max-width: 80%;
+    
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .plan-container {
+    max-width: 80%;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .plan-image-container {
+    padding: 10px;
+  }
+  
+  .plan-image {
+    border-radius: 15px 15px 0 0;
+    transition: transform 0.3s;
+    
+  }
+  
+  .plan-image:hover {
+    transform: scale(1.1);
+  }
+  
+  .plan-details {
+    padding: 10px;
+  }
+  
+  .plan-title {
+    font-weight: bold;
+    font-size: 24px;
+    color: #343a40;
+  }
+  
+  .plan-description {
+    font-size: 16px;
+    color: #6c757d;
+  }
+  
+  .plan-select {
+    border-radius: 5px;
+    transition: all 0.3s;
+  }
+  
+  .plan-select:hover {
+    background-color: #0e57a0;
+  }
+  
+  .plan-features span {
+    background-color: #e9ecef;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 2px;
+  }
+  
+  .plan-price {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .plan-button {
+    background-color: #007bff;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .plan-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .plan-button .text-light {
+    text-decoration: none;
+    color: white;
+  }

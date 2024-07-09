@@ -12,6 +12,7 @@ import AboutUs from './pages/AboutUs';
 import Gallery from './pages/Gallery';
 import Success from './pages/Success';
 import Cancel from './pages/Cancel';
+import ContactForm from './pages/ContactForm';
 //import Blogdeteles from './components/Blogdeteles';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -48,6 +49,10 @@ let allRouter=createBrowserRouter(
     {
       path:'/cancel',
       element:<Cancel/>
+    },
+    {
+      path:'/Contact',
+      element:<ContactForm/>
     }
   ]
 )

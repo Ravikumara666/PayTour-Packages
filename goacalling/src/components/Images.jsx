@@ -6,7 +6,7 @@ function ImageFunction({ itemData }) {
     <div className="image-card">
       <img src={itemData.url} className="card-img-top" alt={itemData.title} />
       <div className="card-body">
-        <h2>{itemData.title}</h2>
+        <h3>{itemData.title}</h3>
       </div>
     </div>
   );

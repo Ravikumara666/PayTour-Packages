@@ -9,6 +9,7 @@ export let data = [
         "emi": 548,
         "loyalty_points": 80,
         "image_url": "https://resources.thomascook.in/images/holidays/PKG010948/Goa4.jpg",
+        "image_background":"https://resources.thomascook.in/images/holidays/PKG010948/photos/Goa.jpg",
         "optional_features": ["Flights", "Hotels", "Meals"]
     },
     {
@@ -21,6 +22,7 @@ export let data = [
         "emi": 672,
         "loyalty_points": 103,
         "image_url": "https://resources.thomascook.in/images/holidays/PKG010952/Goa9.jpg",
+        "image_background":"https://resources.thomascook.in/images/holidays/PKG010952/photos/Goa1.jpg",
         "optional_features": ["Flights", "Hotels", "Meals"]
     },
     {
@@ -33,6 +35,7 @@ export let data = [
         "emi": null,
         "loyalty_points": 106,
         "image_url": "https://resources.thomascook.in/images/holidays/PKG010191/Goa2.jpg",
+        "image_background":"https://resources.thomascook.in/images/holidays/PKG010951/photos/Goa2.jpg",
         "optional_features": ["Flights", "Hotels", "Meals"]
     },
     {
@@ -45,6 +48,7 @@ export let data = [
         "emi": 769,
         "loyalty_points": 121,
         "image_url": "https://resources.thomascook.in/images/holidays/PKG010955/Goa1.jpg",
+        "image_background":"https://resources.thomascook.in/images/holidays/PKG010949/photos/Goa_Fort.jpg",
         "optional_features": ["Flights", "Hotels", "Sightseeing", "Meals"]
     },
     {
@@ -57,6 +61,7 @@ export let data = [
         "emi": 834,
         "loyalty_points": 133,
         "image_url": "https://resources.thomascook.in/images/holidays/PKG010951/paolo-rosa-43985-unsplash.jpg",
+        "image_background":"https://resources.thomascook.in/images/holidays/PKG010951/photos/Goa2.jpg",
         "optional_features": ["Flights", "Hotels", "Meals"]
     },
     {
@@ -69,6 +74,7 @@ export let data = [
         "emi": 909,
         "loyalty_points": 147,
         "image_url": "https://resources.thomascook.in/images/holidays/PKG010953/Goa.jpg",
+        "image_background":"https://resources.thomascook.in/images/holidays/PKG010951/photos/Goa2.jpg",
         "optional_features": ["Flights", "Hotels", "Sightseeing", "Meals"]
     },
     {
@@ -81,6 +87,7 @@ export let data = [
         "emi": 1055,
         "loyalty_points": 174,
         "image_url": "https://resources.thomascook.in/images/holidays/PKG010956/BagaBeach.jpg",
+        "image_background":"https://resources.thomascook.in/images/holidays/PKG010951/photos/Goa2.jpg",
         "optional_features": ["Flights", "Hotels", "Sightseeing", "Meals"]
     },
     {
@@ -93,6 +100,7 @@ export let data = [
         "emi": 1146,
         "loyalty_points": 191,
         "image_url": "https://resources.thomascook.in/images/holidays/PKG009178/Thumbnail.jpg",
+        "image_background":"https://resources.thomascook.in/images/holidays/PKG010951/photos/Goa2.jpg",
         "optional_features": ["Flights", "Hotels", "Meals"]
     },
     {
@@ -105,6 +113,7 @@ export let data = [
         "emi": 1373,
         "loyalty_points": 233,
         "image_url": "https://resources.thomascook.in/images/holidays/PKG011398/RadissonBluGoa.jpg",
+        "image_background":"https://resources.thomascook.in/images/holidays/PKG009178/photos/Gallery.jpg",
         "optional_features": ["Flights", "Hotels", "Meals"]
     },
     {
@@ -117,6 +126,7 @@ export let data = [
         "emi": 1383,
         "loyalty_points": 235,
         "image_url": "https://resources.thomascook.in/images/holidays/PKG010960/Goa15.jpg",
+        "image_background":"https://resources.thomascook.in/images/holidays/PKG011398/photos/thumbnail_RadissonBlu.jpg",
         "optional_features": ["Flights", "Hotels", "Meals"]
     },
     {
@@ -129,6 +139,7 @@ export let data = [
         "emi": 1432,
         "loyalty_points": 244,
         "image_url": "https://resources.thomascook.in/images/holidays/PKG010959/shutterstock_263435510.jpg",
+        "image_background":"https://resources.thomascook.in/images/holidays/PKG009178/photos/Gallery.jpg",
         "optional_features": ["Flights", "Hotels", "Sightseeing", "Meals"]
     },
     {
@@ -141,6 +152,7 @@ export let data = [
         "emi": 1529,
         "loyalty_points": 262,
         "image_url": "https://resources.thomascook.in/images/holidays/PKG010960/Goa15.jpg",
+        "image_background":"https://resources.thomascook.in/images/holidays/PKG011398/photos/thumbnail_RadissonBlu.jpg",
         "optional_features": ["Flights", "Hotels", "Sightseeing", "Meals"]
     },
     {
@@ -154,6 +166,7 @@ export let data = [
         "emi": 17014,
         "loyalty_points": 3057,
         "image_url": "https://resources.thomascook.in/images/holidays/PKG002715/AURANGABADWELCOME73withgateway.jpg",
+        "image_background":"https://resources.thomascook.in/images/holidays/PKG010951/photos/Goa2.jpg",
         "optional_features": ["Flights", "Hotels", "Sightseeing", "Meals"]
     },
     {
@@ -166,6 +179,7 @@ export let data = [
         "emi": 22720,
         "loyalty_points": 4059,
         "image_url": "https://resources.thomascook.in/images/holidays/PKG011975/GOLDENCHARIOTEXTERIOR.jpg",
+        "image_background":"https://resources.thomascook.in/images/holidays/PKG011398/photos/thumbnail_RadissonBlu.jpg",
         "optional_features": ["Flights", "Hotels", "Sightseeing", "Meals"]
     }
 ];

@@ -1,0 +1,17 @@
+.payment-success-container {
+    background: #f8f9fa;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    border: none;
+    border-radius: 1rem;
+    padding: 2rem;
+}
+
+.bi-check-circle {
+    color: #28a745;
+}

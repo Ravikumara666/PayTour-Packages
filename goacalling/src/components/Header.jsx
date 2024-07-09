@@ -25,7 +25,7 @@ function Header() {
           <Nav className="ms-auto text-center my-1">
             <Nav.Link href="#" className={`nav-item-custom text-red`}><Link to={'/'}>Home</Link></Nav.Link>
             <Nav.Link href="#" className={`nav-item-custom text-red`}><Link to={'/gallery'}> Gallery</Link></Nav.Link>
-            <Nav.Link href="#" className={`nav-item-custom text-red`}>Contact</Nav.Link>
+            <Nav.Link href="#" className={`nav-item-custom text-red`}><Link to={'/Contact'}>Contact</Link> </Nav.Link>
             <Nav.Link to href="#" className={`nav-item-custom text-red`}><Link to={'/about-us'}>About</Link></Nav.Link>
             <Nav className="nav-item-custom my-3">
               <label className="ui-switch">
