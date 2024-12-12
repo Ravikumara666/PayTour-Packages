@@ -92,14 +92,6 @@ FRONTEND_URL=<your-frontend-url></pre>
         </ul>
     </section>
 
- <section>
-        <h2 style="color: #007bff; margin-top: 20px;">Screenshots</h2>
-        <h3 style="color: #555;">Tour Selection Page</h3>
-        <p><em>(Add a screenshot showcasing the tour selection and dynamic pricing)</em></p>
-
-  <h3 style="color: #555;">Payment Page</h3>
-  <p><em>(Add a screenshot showcasing the Stripe payment interface)</em></p>
-    </section>
 
   <section>
         <h2 style="color: #007bff; margin-top: 20px;">Contribution</h2>
